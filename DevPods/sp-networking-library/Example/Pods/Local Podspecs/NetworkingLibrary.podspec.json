@@ -1,0 +1,22 @@
+{
+  "name": "NetworkingLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of NetworkingLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/usamafarooq123/NetworkingLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "usamafarooq123": "usama.farooq099@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/usamafarooq123/NetworkingLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NetworkingLibrary/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_Starzplay_AssignmentUITests {
+  umbrella header "Pods-Starzplay-AssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

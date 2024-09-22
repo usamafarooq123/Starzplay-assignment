@@ -1,0 +1,6 @@
+framework module NetworkingLibrary {
+  umbrella header "NetworkingLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

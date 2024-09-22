@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8CF7F94-C2F0-476D-A196-C4BD315628A3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F614F67-B702-4754-9CFF-7393FFD0746D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DevPods/sp-networking-library/NetworkingLibrary/Classes/APIClient/Convertible.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "urlRequest(with:path:method:requestType:input:authManager:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F614F67-B702-4754-9CFF-7393FFD0746D - de73daa85220c6fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetworkingLibrary.Convertible.urlRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(with: Foundation.URL, path: Swift.String, method: Alamofire.HTTPMethod, requestType: NetworkingLibrary.RequestType, input: Swift.Optional&lt;(body: Swift.Optional&lt;&#x3c4;_1_0&gt;, query: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, pathVariables: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;)&gt;, authManager: Swift.Optional&lt;NetworkingLibrary.AuthenticationManager&gt;) throws -&gt; Foundation.URLRequest"
+                  moduleName = "NetworkingLibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/DevPods/sp-networking-library/NetworkingLibrary/Classes/APIClient/Convertible.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "4532">
+               </Location>
+               <Location
+                  uuid = "8F614F67-B702-4754-9CFF-7393FFD0746D - de73daa85220c6fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NetworkingLibrary.Convertible.urlRequest&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Decodable, &#x3c4;_1_0: Swift.Encodable&gt;(with: Foundation.URL, path: Swift.String, method: Alamofire.HTTPMethod, requestType: NetworkingLibrary.RequestType, input: Swift.Optional&lt;(body: Swift.Optional&lt;&#x3c4;_1_0&gt;, query: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;, pathVariables: Swift.Optional&lt;Swift.Array&lt;Swift.String&gt;&gt;, headers: Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Swift.String&gt;&gt;)&gt;, authManager: Swift.Optional&lt;NetworkingLibrary.AuthenticationManager&gt;) throws -&gt; Foundation.URLRequest"
+                  moduleName = "NetworkingLibrary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/DevPods/sp-networking-library/NetworkingLibrary/Classes/APIClient/Convertible.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "4056">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A10A468-4741-47E2-A4BF-16D3074492E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DevPods/sp-networking-library/NetworkingLibrary/Classes/APIClient/Convertible.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "urlRequest(with:path:method:requestType:input:authManager:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2168F2FD-BD8C-4ECD-AFC8-F9022B7F6C19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Starzplay-Assignment/MovieUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchMoviesList(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CB0BE94-721A-453D-82FE-ACD2F0360814"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Starzplay-Assignment/Features/MoviesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "collectionView(_:layout:sizeForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8603BF6C-B161-45FF-B1E6-D145B6944303"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Starzplay-Assignment/Features/MoviesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "viewModelDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9ACC810-543F-4E33-BC13-824274B522A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchEpisodes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F9ACC810-543F-4E33-BC13-824274B522A7 - 4493780c6995593f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;NetworkingLibrary.EpisodesResponse&gt;, NetworkingLibrary.NetworkErrors&gt;) -&gt; () in Starzplay_Assignment.SeasonsEpisodesViewModel.fetchEpisodes() -&gt; ()"
+                  moduleName = "Starzplay-Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "F9ACC810-543F-4E33-BC13-824274B522A7 - 4493780c699559bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;NetworkingLibrary.EpisodesResponse&gt;, NetworkingLibrary.NetworkErrors&gt;) -&gt; () in Starzplay_Assignment.SeasonsEpisodesViewModel.fetchEpisodes() -&gt; ()"
+                  moduleName = "Starzplay-Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "F9ACC810-543F-4E33-BC13-824274B522A7 - 4493780c699559bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;NetworkingLibrary.EpisodesResponse&gt;, NetworkingLibrary.NetworkErrors&gt;) -&gt; () in Starzplay_Assignment.SeasonsEpisodesViewModel.fetchEpisodes() -&gt; ()"
+                  moduleName = "Starzplay-Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "540">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3D8E339-1355-41A9-8120-7F433247FD73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "fetchEpisodes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A3D8E339-1355-41A9-8120-7F433247FD73 - 4493780c69955871"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;NetworkingLibrary.EpisodesResponse&gt;, NetworkingLibrary.NetworkErrors&gt;) -&gt; () in Starzplay_Assignment.SeasonsEpisodesViewModel.fetchEpisodes() -&gt; ()"
+                  moduleName = "Starzplay-Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "A3D8E339-1355-41A9-8120-7F433247FD73 - 4493780c69955871"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;NetworkingLibrary.EpisodesResponse&gt;, NetworkingLibrary.NetworkErrors&gt;) -&gt; () in Starzplay_Assignment.SeasonsEpisodesViewModel.fetchEpisodes() -&gt; ()"
+                  moduleName = "Starzplay-Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B75E94C-1E3F-41F0-8CEB-27EDB086147B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "selectSeason(at:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34172F1A-2E47-4107-AD85-AD4355434DE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchEpisodes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34172F1A-2E47-4107-AD85-AD4355434DE3 - 3747dfb567dff52e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;NetworkingLibrary.EpisodesResponse&gt;, NetworkingLibrary.NetworkErrors&gt;) -&gt; () in Starzplay_Assignment.SeasonsEpisodesViewModel.fetchEpisodes() -&gt; ()"
+                  moduleName = "Starzplay-Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "34172F1A-2E47-4107-AD85-AD4355434DE3 - 4493780c699559f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;NetworkingLibrary.EpisodesResponse&gt;, NetworkingLibrary.NetworkErrors&gt;) -&gt; () in Starzplay_Assignment.SeasonsEpisodesViewModel.fetchEpisodes() -&gt; ()"
+                  moduleName = "Starzplay-Assignment"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/usamafarooq/Documents/Starzplay-Assignment/Starzplay-Assignment/Features/Details/Cell/SeasonsEpisodesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

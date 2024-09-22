@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (5.9.1)
+  - Kingfisher (8.0.1)
+  - NetworkingLibrary (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - Kingfisher
+  - NetworkingLibrary (from `DevPods/sp-networking-library`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  NetworkingLibrary:
+    :path: DevPods/sp-networking-library
+
+SPEC CHECKSUMS:
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  Kingfisher: f08adbfe0e6806e9f5666e69b31fc4f17342d0cc
+  NetworkingLibrary: 5a8278f81cb50adfa8d83574a8beff3deabbd63c
+
+PODFILE CHECKSUM: 205fa8987715ab72a3433b9cbec95ba11a9cba1e
+
+COCOAPODS: 1.15.2
